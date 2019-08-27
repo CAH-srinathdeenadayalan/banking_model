@@ -1,1 +1,1 @@
-# banking_model
+# Banking
